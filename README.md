@@ -1,1 +1,2 @@
-# Sinema-Bufe-Satis-Sistemi
+# Sinema Büfe Satiş Sistemi
+# Sinema Büfelerinde kullanılan sistemin veri tabansız halini yaptığım uygulamam

@@ -1,0 +1,10 @@
+O:\Udemy C# Projeleri\Sinema Büfe Satış\Sinema Büfe Satış\bin\Debug\Sinema Büfe Satış.exe.config
+O:\Udemy C# Projeleri\Sinema Büfe Satış\Sinema Büfe Satış\bin\Debug\Sinema Büfe Satış.exe
+O:\Udemy C# Projeleri\Sinema Büfe Satış\Sinema Büfe Satış\bin\Debug\Sinema Büfe Satış.pdb
+O:\Udemy C# Projeleri\Sinema Büfe Satış\Sinema Büfe Satış\obj\Debug\Sinema Büfe Satış.csprojAssemblyReference.cache
+O:\Udemy C# Projeleri\Sinema Büfe Satış\Sinema Büfe Satış\obj\Debug\Sinema_Büfe_Satış.Form1.resources
+O:\Udemy C# Projeleri\Sinema Büfe Satış\Sinema Büfe Satış\obj\Debug\Sinema_Büfe_Satış.Properties.Resources.resources
+O:\Udemy C# Projeleri\Sinema Büfe Satış\Sinema Büfe Satış\obj\Debug\Sinema Büfe Satış.csproj.GenerateResource.cache
+O:\Udemy C# Projeleri\Sinema Büfe Satış\Sinema Büfe Satış\obj\Debug\Sinema Büfe Satış.csproj.CoreCompileInputs.cache
+O:\Udemy C# Projeleri\Sinema Büfe Satış\Sinema Büfe Satış\obj\Debug\Sinema Büfe Satış.exe
+O:\Udemy C# Projeleri\Sinema Büfe Satış\Sinema Büfe Satış\obj\Debug\Sinema Büfe Satış.pdb
