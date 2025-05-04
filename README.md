@@ -43,3 +43,17 @@ This is a **Cinema and Buffet Management System** built using **.NET** technolog
 1. Clone the repository:
    ```bash
    git clone https://github.com/ParanovaFactory/Cinema-and-buffe-managament-system.git
+
+---
+
+## 👤 Author
+
+**Sadık Berkay Karaduman**  
+📧 [karadumansadikberkay@gmail.com](mailto:karadumansadikberkay@gmail.com)  
+🔗 [GitHub – ParanovaFactory](https://github.com/ParanovaFactory)
+
+---
+
+## 📄 License
+
+MIT License — Feel free to use, modify, and contribute.
